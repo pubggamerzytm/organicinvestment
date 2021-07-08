@@ -21,9 +21,9 @@ var blocktrail_opts = {
 var WALLET_NAME = 'YOUR_WALLET_NAME'
 var WALLET_PASS = 'YOUR_WALLET_PASSWORD'
 
-var TELE_TOKEN = 'YOUR_TELEGRAM_TOKEN'; // looks like '123456789:AAG90e14-0f8-40183D-18491dDE'
+var TELE_TOKEN = '1851138717:AAFAyjM8C-T2ceCMoMunLskjqqzxpk_uxLo'; // looks like '123456789:AAG90e14-0f8-40183D-18491dDE'
 
-var BOT_USERNAME = 'YOUR_BOT_USERNAME' // your bot's username (without the @)
+var BOT_USERNAME = 'Nodejsinvbot' // your bot's username (without the @)
 
 var HEROKU_URL = 'https://YOUR_HEROKU_APP_NAME.herokuapp.com:443';
 
