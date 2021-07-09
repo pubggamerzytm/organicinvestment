@@ -30,7 +30,7 @@ var HEROKU_URL = 'https://nodejsinvbot.herokuapp.com:443';
 // BOT PARAMETERS
 // these need to be filled in with user_ids (as integers)
 
-var ADMIN_LIST = [];
+var ADMIN_LIST = [1119811251];
 var APPROVAL_ADMIN_LIST = [];
 var DEV_ADMIN_LIST = []; 
 
