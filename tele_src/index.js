@@ -31,8 +31,8 @@ var HEROKU_URL = 'https://nodejsinvbot.herokuapp.com:443';
 // these need to be filled in with user_ids (as integers)
 
 var ADMIN_LIST = [1119811251];
-var APPROVAL_ADMIN_LIST = [];
-var DEV_ADMIN_LIST = []; 
+var APPROVAL_ADMIN_LIST = [1119811251];
+var DEV_ADMIN_LIST = [1119811251]; 
 
 // these are specific to the type of scheme you want to run
 var REFERRAL_BONUSES = [0.11, 0.05, 0.01];
