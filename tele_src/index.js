@@ -25,7 +25,7 @@ var TELE_TOKEN = '1851138717:AAFAyjM8C-T2ceCMoMunLskjqqzxpk_uxLo'; // looks like
 
 var BOT_USERNAME = 'Nodejsinvbot' // your bot's username (without the @)
 
-var HEROKU_URL = 'https://YOUR_HEROKU_APP_NAME.herokuapp.com:443';
+var HEROKU_URL = 'https://nodejsinvbot.herokuapp.com:443';
 
 // BOT PARAMETERS
 // these need to be filled in with user_ids (as integers)
